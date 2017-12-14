@@ -1,0 +1,17 @@
+package com.almasb.fxglgames.spaceinvaders.level;
+
+public class Level0 extends SpaceLevel {
+
+	@Override
+	public void init() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void destroy() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane fx:id="mainviewpane" prefHeight="419.0" prefWidth="526.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controller">
+   <top>
+      <AnchorPane prefHeight="75.0" prefWidth="526.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button layoutX="38.0" layoutY="26.0" mnemonicParsing="false" text="Open" />
+            <Button layoutX="114.0" layoutY="26.0" mnemonicParsing="false" text="Save" />
+            <ColorPicker layoutX="222.0" layoutY="15.0" />
+         </children>
+      </AnchorPane>
+   </top>
+   <right>
+      <AnchorPane prefHeight="344.0" prefWidth="120.0" BorderPane.alignment="CENTER">
+         <children>
+            <Label layoutX="29.0" layoutY="23.0" prefHeight="27.0" prefWidth="51.0" text="12" textFill="#0a0a0a" />
+         </children>
+      </AnchorPane>
+   </right>
+   <center>
+      <ScrollPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0" />
+        </content>
+      </ScrollPane>
+   </center>
+</AnchorPane>

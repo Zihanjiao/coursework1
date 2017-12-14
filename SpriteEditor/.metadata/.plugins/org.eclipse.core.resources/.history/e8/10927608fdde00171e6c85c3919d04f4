@@ -1,0 +1,70 @@
+package application;
+
+
+
+
+import javafx.event.EventType;
+import javafx.fxml.FXML;
+import javafx.scene.control.Button;
+import javafx.scene.control.CheckBox;
+import javafx.scene.control.ColorPicker;
+import javafx.scene.control.Label;
+import javafx.scene.control.ScrollPane;
+import javafx.scene.input.MouseEvent;
+import javafx.scene.layout.AnchorPane;
+import javafx.scene.layout.Background;
+import javafx.scene.layout.Pane;
+import javafx.scene.paint.Color;
+import javafx.scene.paint.Paint;
+import javafx.scene.shape.Rectangle;
+import javafx.stage.FileChooser;
+
+public class Controller {
+	@FXML
+	private AnchorPane spritepane;	
+	private Button open;
+	private Button save;
+	@FXML
+	private ColorPicker colorPicker;
+	@FXML
+	private CheckBox fill;
+	Rectangle [][]recPixels;
+	
+	
+	
+	int x;
+	
+	public Controller() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	void display() {
+		Rectangle rectangle=new Rectangle();
+		rectangle.setFill(colorPicker.getValue());
+		rectangle.setStroke(Color.BLACK);
+		rectangle.setWidth(20);
+		rectangle.setHeight(20);
+		rectangle.setLayoutX(x);
+		
+		 x=x+20;
+		spritepane.getChildren().add(rectangle);
+	}
+	
+	 public void openClick(MouseEvent event) {
+		
+		//label.setBackground(new Background(arg0));
+		 FileChooser fileChooser = new FileChooser();
+		 fileChooser.setTitle("Open Resource File");
+		 fileChooser.showOpenDialog(null);
+		
+		
+	 }
+	 
+     public void saveClick(MouseEvent event) {
+		 
+    	 System.out.println(colorPicker.getValue());
+		 
+	 }
+	
+
+}

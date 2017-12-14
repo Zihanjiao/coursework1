@@ -1,0 +1,187 @@
+2017-12-09 23:15:21,025 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-12-09 23:16:58,392 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-12-09 23:17:00,441 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.almasb:SpaceInvaders:0.9.7 @ E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\pom.xml.
+2017-12-09 23:17:00,603 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for commons-codec:commons-codec:jar:1.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-12-09 23:17:01,939 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlinx/kotlinx-coroutines-core/0.17/kotlinx-coroutines-core-0.17.jar
+2017-12-09 23:17:03,144 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.0/jackson-databind-2.9.0.jar
+2017-12-09 23:17:04,745 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.9.0/jackson-databind-2.9.0.jar
+2017-12-09 23:17:04,972 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar
+2017-12-09 23:17:05,176 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.9.0/jackson-annotations-2.9.0.jar
+2017-12-09 23:17:05,394 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.0/jackson-core-2.9.0.jar
+2017-12-09 23:17:05,905 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.9.0/jackson-core-2.9.0.jar
+2017-12-09 23:17:06,112 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-kotlin/2.9.0/jackson-module-kotlin-2.9.0.jar
+2017-12-09 23:17:06,328 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-kotlin/2.9.0/jackson-module-kotlin-2.9.0.jar
+2017-12-09 23:17:06,566 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/1.1.3/kotlin-reflect-1.1.3.jar
+2017-12-09 23:17:08,705 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-reflect/1.1.3/kotlin-reflect-1.1.3.jar
+2017-12-09 23:17:08,917 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar
+2017-12-09 23:17:10,037 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpclient/4.5.3/httpclient-4.5.3.jar
+2017-12-09 23:17:10,239 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar
+2017-12-09 23:17:10,703 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/httpcomponents/httpcore/4.4.6/httpcore-4.4.6.jar
+2017-12-09 23:17:10,921 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/github/lukehutch/fast-classpath-scanner/2.4.5/fast-classpath-scanner-2.4.5.jar
+2017-12-09 23:17:11,220 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/github/lukehutch/fast-classpath-scanner/2.4.5/fast-classpath-scanner-2.4.5.jar
+2017-12-09 23:17:14,714 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://kotlin.bintray.com/kotlinx/org/jetbrains/kotlinx/kotlinx-coroutines-core/0.17/kotlinx-coroutines-core-0.17.jar
+2017-12-09 23:17:16,057 [Worker-15] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://kotlin.bintray.com/kotlinx/org/jetbrains/kotlinx/kotlinx-coroutines-core/0.17/kotlinx-coroutines-core-0.17.jar
+2017-12-09 23:17:18,495 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpaceInvadersCW2/src/main/java
+2017-12-09 23:17:18,496 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpaceInvadersCW2/src/main/resources
+2017-12-09 23:17:18,505 [Worker-15] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpaceInvadersCW2/src/test/java
+2017-12-09 23:17:20,185 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for commons-codec:commons-codec:jar:1.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-12-09 23:17:20,251 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-09 23:17:20,262 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-09 23:17:20,352 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-09 23:17:20,352 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-09 23:17:22,373 [Worker-15] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 23 sec
+2017-12-09 23:17:24,106 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-09 23:17:24,121 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-09 23:17:24,194 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-09 23:17:24,194 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-09 23:20:32,974 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-12-09 23:20:33,508 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.almasb:SpaceInvaders:0.9.7 @ E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\pom.xml.
+2017-12-09 23:20:33,614 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for commons-codec:commons-codec:jar:1.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-12-09 23:20:34,412 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpaceInvadersCW2/src/main/java
+2017-12-09 23:20:34,412 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /SpaceInvadersCW2/src/main/resources
+2017-12-09 23:20:34,422 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /SpaceInvadersCW2/src/test/java
+2017-12-09 23:20:35,083 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2017-12-09 23:20:37,452 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for commons-codec:commons-codec:jar:1.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-12-09 23:20:37,518 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-09 23:20:37,520 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-09 23:20:37,622 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-09 23:20:37,622 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 07:59:23,498 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-12-10 08:03:00,740 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for commons-codec:commons-codec:jar:1.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-12-10 08:03:02,246 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/almasb/fxgl/0.3.9/fxgl-0.3.9-sources.jar
+2017-12-10 08:03:05,333 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/almasb/fxgl/0.3.9/fxgl-0.3.9-sources.jar
+2017-12-10 08:03:05,523 [Worker-26] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.github.almasb:fxgl:0.3.9
+2017-12-10 08:03:06,974 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:03:06,987 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 08:03:07,177 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:03:07,178 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 08:19:26,039 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:19:26,058 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 08:19:26,065 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:19:26,066 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 08:19:54,373 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:19:54,377 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 08:19:54,383 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:19:54,384 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 08:28:47,915 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:28:47,919 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 08:28:47,926 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:28:47,927 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 08:29:55,024 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:29:55,027 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 08:29:55,032 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:29:55,033 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 08:31:06,773 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:31:06,775 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 08:31:06,780 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:31:06,780 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 08:31:54,635 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:31:54,639 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 08:31:54,644 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:31:54,644 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 08:35:25,116 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:35:25,120 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 08:35:25,129 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:35:25,129 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 08:36:17,800 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:36:17,800 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 08:36:17,800 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:36:17,800 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 08:36:50,784 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:36:50,787 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 08:36:50,792 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:36:50,792 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 08:38:09,901 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:38:09,905 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 08:38:09,918 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:38:09,918 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 08:38:27,640 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:38:27,656 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 08:38:27,656 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:38:27,656 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 08:38:44,472 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:38:44,472 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 08:38:44,488 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:38:44,488 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 08:41:57,805 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:41:57,805 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 08:41:57,805 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:41:57,805 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 08:44:09,834 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:44:09,834 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 08:44:09,849 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 08:44:09,849 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 09:00:41,605 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 09:00:41,605 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 09:00:41,605 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 09:00:41,605 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 12:41:11,232 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 12:41:11,239 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 12:41:11,247 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 12:41:11,248 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 12:42:40,765 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 12:42:40,769 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 12:42:40,778 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 12:42:40,778 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 19:15:50,334 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2017-12-10 19:26:56,499 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for commons-codec:commons-codec:jar:1.9 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2017-12-10 19:34:33,752 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:34:33,763 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 19:34:33,781 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:34:33,781 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 19:35:04,906 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:35:04,915 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 19:35:04,922 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:35:04,922 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 19:38:50,524 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:38:50,530 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 19:38:50,539 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:38:50,539 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 19:39:11,910 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:39:11,913 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 19:39:11,921 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:39:11,921 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 19:42:59,022 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:42:59,024 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 19:42:59,029 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:42:59,030 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 19:43:33,854 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:43:33,858 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 19:43:33,863 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:43:33,863 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 19:44:17,063 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:44:17,065 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 19:44:17,071 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:44:17,071 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 19:46:22,302 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:46:22,304 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 19:46:22,314 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 19:46:22,315 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 20:26:21,437 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 20:26:21,442 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 20:26:21,448 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 20:26:21,449 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 20:35:10,916 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 20:35:10,918 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 20:35:10,923 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 20:35:10,923 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 20:41:57,316 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 20:41:57,320 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 20:41:57,328 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 20:41:57,328 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 20:43:04,089 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 20:43:04,093 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 20:43:04,099 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 20:43:04,100 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 20:46:25,868 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 20:46:25,872 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 20:46:25,881 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 20:46:25,881 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 20:57:16,063 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 20:57:16,067 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 20:57:16,074 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 20:57:16,075 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources
+2017-12-10 20:59:28,718 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 20:59:28,722 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 38 resources
+2017-12-10 20:59:28,734 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-12-10 20:59:28,735 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\Projects\Javaprj\SpaceInvader\SpaceInvadersCW2\src\test\resources

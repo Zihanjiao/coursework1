@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="mainviewpane" prefHeight="464.0" prefWidth="507.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller">
+   <children>
+      <BorderPane layoutX="147.0" layoutY="94.0" prefHeight="200.0" prefWidth="200.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <top>
+            <AnchorPane prefHeight="77.0" prefWidth="526.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Button fx:id="open" layoutX="21.0" layoutY="27.0" mnemonicParsing="false" onMouseClicked="#openClick" text="Open" />
+                  <Button fx:id="save" layoutX="89.0" layoutY="27.0" mnemonicParsing="false" onMouseClicked="#saveClick" text="Save" />
+                  <ColorPicker fx:id="colorPicker" layoutX="181.0" layoutY="27.0" />
+                  <CheckBox fx:id="fill" layoutX="290.0" layoutY="31.0" mnemonicParsing="false" text="Fill" />
+               </children></AnchorPane>
+         </top>
+         <center>
+            <ScrollPane fx:id="spritepane" prefHeight="398.0" prefWidth="514.0" BorderPane.alignment="CENTER" />
+         </center>
+      </BorderPane>
+   </children>
+</AnchorPane>

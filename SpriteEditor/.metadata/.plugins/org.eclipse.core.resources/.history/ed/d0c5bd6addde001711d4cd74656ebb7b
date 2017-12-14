@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="607.0" prefWidth="803.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="WorldController">
+   <children>
+      <ImageView fx:id="basketView" fitHeight="83.0" fitWidth="99.0" layoutX="241.0" layoutY="463.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url=".\images\basket.png" />
+         </image></ImageView>
+      <Button fx:id="straight" layoutX="83.0" layoutY="486.0" mnemonicParsing="false" onMouseClicked="#straightClick" text="Go straight" />
+      <Button fx:id="left" layoutX="41.0" layoutY="521.0" mnemonicParsing="false" onMouseClicked="#leftClick" prefHeight="23.0" prefWidth="81.0" text="left" />
+      <Button fx:id="right" layoutX="127.0" layoutY="521.0" mnemonicParsing="false" onMouseClicked="#rightClick" prefHeight="23.0" prefWidth="81.0" text="right" />
+      <Button fx:id="back" layoutX="83.0" layoutY="558.0" mnemonicParsing="false" onMouseClicked="#backClick" prefHeight="23.0" prefWidth="81.0" text="Go back" />
+      <Pane fx:id="mainviewpane" layoutX="8.0" layoutY="10.0" prefHeight="450.0" prefWidth="400.0" />
+      <Button layoutX="247.0" layoutY="558.0" mnemonicParsing="false" onMouseClicked="#basketadd" text="+" />
+      <Button layoutX="284.0" layoutY="558.0" mnemonicParsing="false" onMouseClicked="#basketreduce" text="-" />
+      <ImageView fitHeight="83.0" fitWidth="113.0" layoutX="372.0" layoutY="462.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="./images/rabbit.png" />
+         </image>
+      </ImageView>
+      <Button layoutX="378.0" layoutY="558.0" mnemonicParsing="false" onMouseClicked="#rabbitadd" text="+" />
+      <Button layoutX="415.0" layoutY="558.0" mnemonicParsing="false" onMouseClicked="#rabbitreduce" text="-" />
+      <Pane layoutX="473.0" layoutY="411.0" prefHeight="150.0" prefWidth="300.0">
+         <children>
+            <ImageView fx:id="topView" fitHeight="200.0" fitWidth="320.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="images/topview.png" />
+               </image>
+            </ImageView>
+            <Label fx:id="mark" layoutX="265.0" layoutY="32.0" text="★" textAlignment="CENTER" textFill="#db0909">
+               <font>
+                  <Font size="30.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+            </Label>
+         </children>
+      </Pane>
+      <Label fx:id="inf" alignment="CENTER" contentDisplay="CENTER" layoutX="457.0" layoutY="22.0" prefHeight="342.0" prefWidth="291.0" text="Label" textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font size="30.0" />
+         </font></Label>
+   </children>
+</AnchorPane>
